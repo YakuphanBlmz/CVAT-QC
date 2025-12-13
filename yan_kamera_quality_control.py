@@ -12,8 +12,8 @@ from fpdf import FPDF
 # --- AYARLAR ---
 CONFIG = {
     # Dosya yollarınızı kontrol edin
-    "xml_path": "C:\\Users\\Yakuphan\\Desktop\\CVAT\\PREPROCESS DATA\\ALL OUTPUTS (XML)\\SWE101_GROUP_15.xml",      # XML YOLUNUZ
-    "images_folder": "C:\\Users\\Yakuphan\\Desktop\\CVAT\\PREPROCESS DATA\\ALL FRAMES\\GRUP35",  # RESIMLERIN BULUNDUGU KLASOR
+    "xml_path": "C:\\Users\\Berrin\\Desktop\\CVAT\\PREPROCESS DATA\\ALL OUTPUTS (XML)\\SWE101_GROUP_15.xml",      # XML YOLUNUZ
+    "images_folder": "C:\\Users\\Berrin\\Desktop\\CVAT\\PREPROCESS DATA\\ALL FRAMES\\GRUP15",  # RESIMLERIN BULUNDUGU KLASOR
     "output_base_name": "SWE101_GRUP_15",        # TR İSE YAZ101 , ENG İSE SWE101 => ÖRNEK KULLANIM SWE101_GRUP_1  YA DA  YAZ101_GRUP_1
     "fps": 2, 
     "skeleton_color": (255, 255, 255),
